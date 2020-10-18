@@ -1,2 +1,2 @@
-[bulid]
-    function = "./functions"
+[build]
+  functions = "./functions"
