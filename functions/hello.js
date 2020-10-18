@@ -8,9 +8,9 @@ exports.handler = async (event) => {
     votesArray[0] += 1;
   } else if (v === "b") {
     votesArray[1] += 1;
-  } else if (v === "b") {
+  } else if (v === "c") {
     votesArray[2] += 1;
-  } else if (v === "b") {
+  } else if (v === "d") {
     votesArray[3] += 1;
   } else if (v === "r") {
     votesArray = [0, 0, 0, 0];
